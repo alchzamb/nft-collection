@@ -9,7 +9,7 @@ This project was built as part of the **Blockchain Accelerator** program, applyi
 | | |
 |---|---|
 | **Network** | Arbitrum One (Chain ID: 42161) |
-| **Contract Address** | [`0xbF9623F06c3c395Ec8df44104FC308e31Ab74A04`](https://arbiscan.io/address/0xbF9623F06c3c395Ec8df44104FC308e31Ab74A04) |
+| **Contract Address** | [`0xd9b9c1c53e8e869b5e0a0e914ddaec56a41aa724`](https://arbiscan.io/address/0xd9b9c1c53e8e869b5e0a0e914ddaec56a41aa724) |
 | **Status** | ✅ Verified on Arbiscan |
 | **Standard** | ERC-721 |
 | **Symbol** | BANFT |
