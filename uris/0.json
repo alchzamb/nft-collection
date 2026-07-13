@@ -1,0 +1,13 @@
+{
+  "name": "Pyroclaw Drake",
+  "description": "A fire drake forged in the volcanic rifts of the realm. Every roar ignites the duel arena and melts the ice of rival cards.",
+  "image": "ipfs://bafybeiartovbkeh3a3rcq24esfxkfhzd5ozhvikfxlf4yv6avqq5hyuwyy",
+  "attributes": [
+    { "trait_type": "Element", "value": "Fire" },
+    { "trait_type": "Type", "value": "Fire Beast" },
+    { "trait_type": "Level", "value": "6" },
+    { "trait_type": "ATK", "value": "2400" },
+    { "trait_type": "DEF", "value": "1600" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}

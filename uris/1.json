@@ -1,0 +1,13 @@
+{
+  "name": "Tidebound Colossus",
+  "description": "Sculpted from coral and abyssal stone, this sentinel guards the deep currents of the duel. Its glowing core extinguishes any rival flame.",
+  "image": "ipfs://bafybeiebfhwsxoqlifnclo7i3y4sugd5brh3a2cyssthkxu5q4xez2jawy",
+  "attributes": [
+    { "trait_type": "Element", "value": "Water" },
+    { "trait_type": "Type", "value": "Water Golem" },
+    { "trait_type": "Level", "value": "7" },
+    { "trait_type": "ATK", "value": "1900" },
+    { "trait_type": "DEF", "value": "2800" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}
